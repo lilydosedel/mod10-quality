@@ -1,0 +1,5 @@
+-r requirements.txt  # include runtime dependencies (requirements.txt)
+
+black==25.1.0
+isort==6.0.1
+pre_commit==4.2.0
